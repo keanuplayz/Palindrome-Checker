@@ -7,16 +7,14 @@ def reverse(s):                                                # Functie die het
     return s[::-1] 
   
 def isPalindrome(s):                                           # Functie die checkt of het een Palindroom is.
-    # Calling reverse function 
     rev = reverse(s)                                           # Reverse functie wordt hier aangeroepen.
 
-    # Checking if both string are equal or not 
     if (s == rev):                                             # Checkt of alle twee de strings hetzelfde zijn ja of nee.
         return True
     return False
   
   
-# Driver code                                                  # Code die uitgevoerd wordt.
+                                                               # Code die uitgevoerd wordt.
 s = input("Enter string:")
 ans = isPalindrome(s) 
   
