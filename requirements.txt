@@ -40,7 +40,7 @@ pywin32-ctypes==0.2.0
 PyYAML==5.3
 requests==2.21.0
 six==1.14.0
-soupsieve==1.9.5
+soupsieve==2.0
 spotdl==1.2.4
 spotipy==2.4.4
 titlecase==0.12.0
