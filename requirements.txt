@@ -42,7 +42,7 @@ requests==2.21.0
 six==1.14.0
 soupsieve==2.0
 spotdl==1.2.4
-spotipy==2.4.4
+spotipy==2.9.0
 titlecase==0.12.0
 tqdm==4.43.0
 unicode-slugify==0.1.3
