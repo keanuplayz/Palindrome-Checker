@@ -38,7 +38,7 @@ PyQt5-sip==12.7.1
 pytube==9.5.1
 pywin32-ctypes==0.2.0
 PyYAML==5.3
-requests==2.21.0
+requests==2.23.0
 six==1.14.0
 soupsieve==2.0
 spotdl==1.2.4
