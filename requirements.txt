@@ -33,7 +33,7 @@ Pillow==7.0.0
 pygame==1.9.6
 PyInstaller==3.6
 pylint==2.4.4
-PyQt5==5.13.0
+PyQt5==5.14.1
 PyQt5-sip==12.7.1
 pytube==9.5.1
 pywin32-ctypes==0.2.0
