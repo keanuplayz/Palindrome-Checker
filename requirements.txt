@@ -18,7 +18,7 @@ Jinja2==2.11.2
 lazy-object-proxy==1.4.3
 logzero==1.5.0
 lxml==4.5.0
-lyricsgenius==1.8.2
+lyricsgenius==1.8.4
 lyricwikia==0.1.11
 MarkupSafe==1.1.1
 mccabe==0.6.1
