@@ -22,7 +22,7 @@ lyricsgenius==1.8.5
 lyricwikia==0.1.11
 MarkupSafe==1.1.1
 mccabe==0.6.1
-moviepy==1.0.2
+moviepy==1.0.3
 mutagen==1.44.0
 notify2==0.3.1
 numpy==1.18.4
